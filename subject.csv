@@ -1,0 +1,11 @@
+subjectId,subjectName,credits,instructor,prerequisiteId,maxCapacity
+05501101,Computer Programming I,3,Prof. Somchai Kengmak,,50
+05501102,Data Structures and Algorithms,3,Prof. Somying Jaidee,05501101,3
+90691001,English for Communication,3,Prof. John Doe,,100
+90691002,Critical Thinking,3,Prof. Wichan Trakka,,-1
+05502101,Web Application Development,3,Prof. Wandee Meesuk,05501102,30
+05502202,Database Systems,3,Prof. Manee Rakdee,05501102,30
+90692103,Art of Living,3,Prof. Cheewa Pensuk,,-1
+05503105,Operating Systems,3,Prof. Ekkapol Konkeng,05501102,25
+90691204,Man and Society,3,Prof. Sangkhom Deejing,,-1
+05504101,Software Engineering,3,Prof. Rabieb Baebphaen,05502101,20
